@@ -38,7 +38,7 @@
             <td>
               <table width="100%" border="0" cellpadding="10" cellspacing="10" class="pullquotegreen">
                 <tr>
-                  <td valign="top">Imagine... <br>
+                  <td valign="top">Imagine... Change in sentence<br>
                     <br>
                     choosing your financial institution and still getting all the benefits of a national banking program.</td>
                 </tr>
